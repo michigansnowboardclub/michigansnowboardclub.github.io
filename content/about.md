@@ -6,20 +6,11 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Whether you ski, board, or have never tried either, there is no reason not to join the best club on campus. Every year the club grows bigger and better. With over 260 members, we remain the largest winter sports organization on campus. Dues are $40 annually and get you access to our rail jams, film premiers, dozens of local trips to resorts, and annual trips over Martin Luther King weekend and Spring Break.
 
-Hugo makes use of a variety of open source projects including:
+Nothing is better than getting out of Ann Arbor for a day or an afternoon on the slopes. We hope you choose to join the most stoked crew on campus! Here is the [link](https://linktr.ee/msc420?utm_source=linktree_profile_share&ltsid=38562c4c-4664-4be1-8ee2-3f7a3c4af1a4) for joining the club, ikon pass, and our instagram!
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+**Skiers and snowboarders of all skill levels are welcome!**
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+{{< img src="mlk23" >}}
+photos by [@lilaturnerphoto](https://www.instagram.com/lilaturnerphoto/) (1st slide & 3rd slide & Above) and Anya (2nd slide)

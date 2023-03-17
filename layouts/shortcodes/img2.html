@@ -1,0 +1,10 @@
+{{- $src := .Page.Resources.GetMatch (.Get "src") -}}
+{{- if $src -}}
+<div class="imageWrapper">
+<img
+    src="{{ $src.RelPermalink }}" 
+     width = "100%"
+    />
+</div>
+
+{{- end -}}
