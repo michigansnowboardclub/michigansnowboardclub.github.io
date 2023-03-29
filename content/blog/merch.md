@@ -16,7 +16,7 @@ categories = [
 series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
 +++
-MERCH DROP CLOSES 4/02/2023 AT MIDNIGHT!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+MERCH DROP CLOSES 3/31/2023 AT MIDNIGHT!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 [---------------------> Click for Merch Store <---------------------](https://pogo.undergroundshirts.com/collections/michigan-snowboard-club) 
 [---------------------> Click for Merch Store <---------------------](https://pogo.undergroundshirts.com/collections/michigan-snowboard-club) 
 [---------------------> Click for Merch Store <---------------------](https://pogo.undergroundshirts.com/collections/michigan-snowboard-club) 
