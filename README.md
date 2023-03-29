@@ -1,6 +1,6 @@
 # [michigansnowboard.club](https://michigansnowboard.club/)
 
-## Github Repository for the Michigan Snowboard Club
+## Github Repository for MSC's Website
 
 ### Written in [Hugo](https://gohugo.io/) adapting from the [Tella theme](https://github.com/opera7133/tella)
 
