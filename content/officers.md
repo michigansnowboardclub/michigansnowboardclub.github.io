@@ -29,7 +29,7 @@ Officers help run the snowboard club here at Michigan. We often wear jerseys to 
 
 {{< person src="dana" person_name="Dana Marion" person_title="Social Chair" person_bio="Dana is a junior majoring in International Studies and Anthropology with a minor in Education for Empowerment. She is super passionate about skiing and grew up skiing in Keystone, CO." >}}
 
-{{< person src="joesph" person_name="Joseph Cerniglia" person_title="Social Chair" person_bio="Dana is a junior majoring in International Studies and Anthropology with a minor in Education for Empowerment. She is super passionate about skiing and grew up skiing in Keystone, CO." >}}
+{{< person src="joesph" person_name="Joseph Cerniglia" person_title="MLK Coordinator" person_bio="Joseph is a junior in the School of Public Health pursuing a BA in Community and Global Health. He is from Batesville, Indiana and on his breaks he works as a lift operator at Perfect North Slopes. He is also involved in environmental work through Citizens’ Climate Lobby and mental health advocacy through CAPS In Action. On the slopes you can find Joseph flying through the glades always on the lookout for some untouched powder." >}}
 
 {{< person src="eden" person_name="Eden Boes" person_title="Design Chair" person_bio="Eden is a junior studying architecture. In her free time she enjoys reading reading fantasy books and drawing. Her favorite emojis include 🤠🕺😵‍💫🫡🫣" >}}
 
