@@ -1,0 +1,50 @@
+{{ $name := .Get "src" }}
+{{ $extention := .Get "ext" | default "jpg" }}
+{{ $person_title := .Get "person_title" }}
+{{ $person_name := .Get "person_name" }}
+{{ $person_bio := .Get "person_bio" }}
+{{ $width := .Get "width" | default "auto" }}
+{{ $minipath := printf "/posts/%s/%s.%s" .Page.File.ContentBaseName $name $extention }}
+{{ $path := printf "content%s.webp" $minipath }}
+{{- if (fileExists $path) -}}
+{{- else -}}
+<style>
+    greybox {
+      width: 420px;
+      padding: 80px;
+    }
+    .person {
+        width: 500px;;
+        display: flex;
+        flex-direction: column;
+        align-items: left;
+        background-color: rgb(226, 225, 225);
+    }
+    .person-img {
+        margin: 0;
+    }
+    .person > div {
+        padding-left: 30px;
+    }
+    .person-title {
+        font-weight: bold;
+        font-size: 25px;
+        line-height: 30px;
+        margin-top: 20px;
+    }
+    .person-name {
+        font-size: 25px;
+    }
+    .person-bio {
+        padding: 30px;
+        padding-top: 0;
+    }
+</style>
+<div class="person">
+    <img class="person-img" src="{{ $minipath }}" style="width: 500px; height: 400px; object-fit: cover" />
+    <div class="person-title">{{- $person_title -}}</div>
+    <div class="person-name">{{- $person_name -}}</div>
+    <div class="person-bio">{{- $person_bio -}}</div>
+</div>
+
+{{- end -}}

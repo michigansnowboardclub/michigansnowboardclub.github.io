@@ -1,0 +1,20 @@
+{{ $name := .Get "src" }}
+{{ $extention := .Get "ext" | default "jpg" }}
+{{ $alt := .Get "alt" }}
+{{ $width := .Get "width" | default "auto" }}
+{{ $minipath := printf "/posts/%s/%s.%s" .Page.File.ContentBaseName $name $extention }}
+{{ $path := printf "content%s.webp" $minipath }}
+{{- if (fileExists $path) -}}
+{{- else -}}
+<style>
+    .people {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        gap: 50px;
+    }
+</style>
+<div class="people">
+    {{ .Inner }}
+</div>
+{{- end -}}
