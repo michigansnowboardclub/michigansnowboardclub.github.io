@@ -1,14 +1,14 @@
 +++
 title = "Officers"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
+description = "MSC Officers"
+date = "2023-3-28"
 aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+author = "n/a"
 +++
 
-Officers help run the snowboard club here at Michigan. We often wear jerseys to events so we can identify us easily. We think we're pretty chill, so feel free to come up and talk with us at events
+Officers help run the snowboard club here at Michigan. We often wear jerseys to events so you can identify us easily. We're pretty chill, so feel free to come up and talk with us at events
 
-Full officer descriptions and pictures coming soon!
+(Note to officers: send me your bios or else it's going to stay as chatgpt)
 
 ## Executives
 {{< people >}}

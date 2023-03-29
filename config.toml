@@ -24,26 +24,26 @@ enableRobotsTXT = true
 
   [params.logo]
     main = "img/logo/logo.svg"
-    alt = "Tella Logo"
+    alt = "MSC Logo"
 
     # The size parameter is the class name of tailwindcss
     # https://tailwindcss.com/
     size = "h-14"
 
   [params.site]
-    name = "Tella"
+    name = "MSC"
 
   [params.icon]
     #If you want to use FontAwesome, set this parameter to true.
     fontawesome = true
 
   [params.homepage_meta_tags]
-    meta_description = "A Hugo Theme for OSSProject, Companies, Organization..."
-    meta_og_title = "Tella"
+    meta_description = "Homepage for the Michigan Snowboard Club at UofM"
+    meta_og_title = "Michigan Snowboard Club"
     meta_og_type = "website"
     meta_og_url = "https://tella.pages.dev"
-    meta_og_image = "https://raw.githubusercontent.com/opera7133/tella/master/images/tn.png"
-    meta_og_description = "A Hugo Theme for OSSProject, Companies, Organization..."
+    meta_og_image = "https://raw.githubusercontent.com/michigansnowboardclub/michigansnowboardclub.github.io/main/images/background.png"
+    meta_og_description = "Homepage for the Michigan Snowboard Club at UofM"
     meta_twitter_card = "summary_large_image"
     meta_twitter_site = "@username"
     meta_twitter_creator = "@username"
@@ -58,7 +58,7 @@ enableRobotsTXT = true
 
   [[menu.main]]
     identifier = "officers"
-    name = "Meet The Officers"
+    name = "Officers"
     url = "/officers/"
     weight = 2
 
@@ -88,6 +88,6 @@ enableRobotsTXT = true
 
   [[menu.footer]]
     name = "Github"
-    url = "https://github.com/opera7133/tella"
+    url = "https://github.com/michigansnowboardclub/michigansnowboardclub.github.io"
     pre = "<i class='icon-github text-2xl'></i>"
       weight = 2
