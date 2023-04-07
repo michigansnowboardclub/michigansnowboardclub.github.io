@@ -13,4 +13,8 @@ Easiest way to edit text is keyword searching. Most of the content is in the con
 - Pages for Discounts & Fundraising
 - More pictures
 - Blog posts that contain more of a description/story of the trip/event
+  - What went down, what pictures were taken, links to any content
 - Fix social media links to be more relevant
+- Special page for members with events & info. UofM authentication required (we have list of uniqnames)
+- Officer michigansnowboard.club emails?
+- Dark Mode toggle
