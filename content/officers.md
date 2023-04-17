@@ -31,7 +31,7 @@ Officers help run the snowboard club here at Michigan. We often wear jerseys to 
 
 {{< person src="joesph" person_name="Joseph Cerniglia" person_title="MLK Coordinator" person_bio="Joseph is a junior in the School of Public Health pursuing a BA in Community and Global Health. He is from Batesville, Indiana and on his breaks he works as a lift operator at Perfect North Slopes. He is also involved in environmental work through Citizens’ Climate Lobby and mental health advocacy through CAPS In Action. On the slopes you can find Joseph flying through the glades always on the lookout for some untouched powder." >}}
 
-{{< person src="eden" person_name="Eden Boes" person_title="Design Chair" person_bio="Eden is a junior studying architecture. In her free time she enjoys reading reading fantasy books and drawing. Her favorite emojis include 🤠🕺😵‍💫🫡🫣" >}}
+{{< person src="eden" person_name="Eden Boes" person_title="Design Chair" person_bio="Eden is a junior studying architecture. In her free time she enjoys reading fantasy books and drawing. Her favorite emojis include 🤠🕺😵‍💫🫡🫣" >}}
 
 {{< person src="logo" person_name="Regan Monnett" person_title="Design Chair" person_bio="Regan Monnett is the talented design chair for the Michigan Snowboard Club, responsible for creating visually stunning and impactful designs that represent the club's brand and message." >}}
 
