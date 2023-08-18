@@ -85,9 +85,14 @@ enableRobotsTXT = true
     name = "Home"
     url = "/"
       weight = 1
+  
+  [[menu.footer]]
+    name = "Instagram"
+    url = "https://www.instagram.com/mi_snowboard_club/?igshid=YmMyMTA2M2Y%3D"
+      weight = 2
 
   [[menu.footer]]
     name = "Github"
     url = "https://github.com/michigansnowboardclub/michigansnowboardclub.github.io"
     pre = "<i class='icon-github text-2xl'></i>"
-      weight = 2
+      weight = 3
