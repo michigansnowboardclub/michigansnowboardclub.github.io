@@ -12,20 +12,20 @@ Officers help run the snowboard club here at Michigan. We often wear jerseys to 
 
 ## Executives
 {{< people >}}
-    {{< person src="joesph" person_name="Joseph Cerniglia" person_title="President" person_bio="Joseph is a junior in the School of Public Health pursuing a BA in Community and Global Health. He is from Batesville, Indiana and on his breaks he works as a lift operator at Perfect North Slopes. He is also involved in environmental work through Citizens’ Climate Lobby and mental health advocacy through CAPS In Action. On the slopes you can find Joseph flying through the glades always on the lookout for some untouched powder." >}}
+    {{< person src="joesph" person_name="Joseph Cerniglia" person_title="President" person_bio="Joseph is a senior in the School of Public Health pursuing a BA in Community and Global Health. He is from Batesville, Indiana and on his breaks he works as a lift operator at Perfect North Slopes. He is also involved in environmental work through Citizens’ Climate Lobby and mental health advocacy through CAPS In Action. On the slopes you can find Joseph flying through the glades always on the lookout for some untouched powder." >}}
 
-    {{< person src="corbin" person_name="Corbin Fleming-Dittenber" person_title="Vice President" person_bio="Corbin is a third-year computer engineering major who is hoping to move out west to snowboard and work after graduating. Outside of snowboarding he enjoys ultimate frisbee, drag racing, and music. You might see him on Palmer hill after a snow storm setting up rails and jumps because he has an addiction to snowboarding." >}}
+    {{< person src="corbin" person_name="Corbin Fleming-Dittenber" person_title="Vice President" person_bio="Corbin is a fourth-year computer engineering major who is hoping to move out west to snowboard and work after graduating. Outside of snowboarding he enjoys ultimate frisbee, drag racing, and music. You might see him on Palmer hill after a snow storm setting up rails and jumps because he has an addiction to snowboarding." >}}
 
-    {{< person src="eden" person_name="Eden Boes" person_title="Treasurer" person_bio="Eden is a junior studying architecture. In her free time she enjoys reading fantasy books and drawing. Her favorite emojis include 🤠🕺😵‍💫🫡🫣" >}}
+    {{< person src="eden" person_name="Eden Boes" person_title="Treasurer" person_bio="Eden is a senior studying architecture. In her free time she enjoys reading fantasy books and drawing. Her favorite emojis include 🤠🕺😵‍💫🫡🫣" >}}
 
 
 {{< /people >}}
 
 ## Officers
 {{< people >}}
-{{< person src="david" person_name="David McInnis" person_title="Advisor" person_bio="David is a junior studying aerospace engineering with a focus on robotics. When he isn’t being a nerd he enjoys playing 3 man at the berg and someda in the cave. When he’s stranded in the Wamsutter Baptist church he enjoys playing mafia and poker. David’s fun fact is that he has broken into the real Disney castle." >}}
+{{< person src="david" person_name="David McInnis" person_title="Advisor" person_bio="David is a senior studying aerospace engineering with a focus on robotics. When he isn’t being a nerd he enjoys playing 3 man at the berg and someda in the cave. When he’s stranded in the Wamsutter Baptist church he enjoys playing mafia and poker. David’s fun fact is that he has broken into the real Disney castle." >}}
 
-{{< person src="dana" person_name="Dana Marion" person_title="Head Social Chair" person_bio="Dana is a junior majoring in International Studies and Anthropology with a minor in Education for Empowerment. She is super passionate about skiing and grew up skiing in Keystone, CO." >}}
+{{< person src="dana" person_name="Dana Marion" person_title="Head Social Chair" person_bio="Dana is a senior majoring in International Studies and Anthropology with a minor in Education for Empowerment. She is super passionate about skiing and grew up skiing in Keystone, CO." >}}
 
 {{< person src="logo" person_name="Nick Hogan" person_title="Social Chair" person_bio="Nick Hogan is a social chair for the Michigan Snowboard Club." >}}
 
@@ -56,9 +56,9 @@ Officers help run the snowboard club here at Michigan. We often wear jerseys to 
 
 {{< person src="logo" person_name="Megan Matthews" person_title="Sustainability" person_bio="Megan Matthews is a sustainability chair for the Michigan Snowboard Club" >}}
 
-{{< person src="audrey" person_name="Audrey Downing" person_title="Webmaster" person_bio="Audrey is a junior studying computer science. She has mastered the dreadful east coast conditions growing up skiing in Massachusetts and New York. When she isn't skiing too fast through glades you might catch her playing guitar, gaming, or competing in hacker competitions. She also made and maintains this website :)" >}}
+{{< person src="audrey" person_name="Audrey Downing" person_title="Webmaster" person_bio="Audrey is a senior studying computer science. She has mastered the dreadful east coast conditions growing up skiing in Massachusetts and New York. When she isn't skiing too fast through glades you might catch her playing guitar, gaming, or competing in hacker competitions. She also made and maintains this website :)" >}}
 
-{{< person src="dom" person_name="Dominika Urbaniak" person_title="DEI" person_bio="Dominika is a second-year psychology major, minoring in sociology of health & medicine. She enjoys matcha, yoga, hiking and all that hippy dippy sh*t. She wants to hit terrain park more despite having a terrible fear of breaking bones, so feel free to peer-pressure her into hitting park!" >}}
+{{< person src="dom" person_name="Dominika Urbaniak" person_title="DEI" person_bio="Dominika is a third-year psychology major, minoring in sociology of health & medicine. She enjoys matcha, yoga, hiking and all that hippy dippy sh*t. She wants to hit terrain park more despite having a terrible fear of breaking bones, so feel free to peer-pressure her into hitting park!" >}}
 
 {{< person src="kat" person_name="Katherine Phillips" person_title="DEI" person_bio="Katherine is senior studying Biology, Health and Society, with the overall goal of becoming a doctor of osteopathic medicine in the field of pediatrics. When she is not mentally consumed by the chaos that is the United States healthcare system, she enjoys going out and having new experiences, like nearly falling off a cliff in Jackson, Wyoming. She also enjoys learning new types of arts and crafts, as she slowly transforms into the crazy grandma cat-lady she was destined to be." >}}
 
