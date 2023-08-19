@@ -45,7 +45,7 @@ Officers help run the snowboard club here at Michigan. We often wear jerseys to 
 
 {{< person src="koko" person_name="Koko Buckhold" person_title="Public Relations" person_bio="Koko is a junior studying sociology and women’s and gender studies. She is a lover of margherita pizzas, mac miller, and poor financial decisions. Her greatest fears include cracker barrel and children. cons: allergic to cats. pros: everything else." >}}
 
-{{< person src="logo" person_name="Tyler Nowak" person_title="Local Trips" person_bio="Tyler Nowak is a local trips coordinator for the Michigan Snowboard Club." >}}
+{{< person src="tyler" person_name="Tyler Nowak" person_title="Local Trips" person_bio="Tyler is a junior studying information along the informational analytics pathway with a computer science minor. When he is not throwing down in the terrain park, he can be seen skating around campus. Tyler also spends way to much time playing video games." >}}
 
 {{< person src="logo" person_name="Justin Li" person_title="Local Trips" person_bio="Justin Li is a local trips coordinator for the Michigan Snowboard Club." >}}
 

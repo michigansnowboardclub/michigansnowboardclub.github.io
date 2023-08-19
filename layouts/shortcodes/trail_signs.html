@@ -1,0 +1,6 @@
+{{ $name := .Get "src" }}
+{{ $text := .Get "text" }}
+<span>
+    <img style="float: left; margin-top: auto; margin-right: 10px;" src="{{ $name }}">
+    {{ $text }}
+</span>
