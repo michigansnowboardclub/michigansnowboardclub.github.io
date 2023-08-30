@@ -16,7 +16,7 @@ Officers help run the snowboard club here at Michigan. We often wear jerseys to 
 
     {{< person src="corbin" person_name="Corbin Fleming-Dittenber" person_title="Vice President" person_bio="Corbin is a fourth-year computer engineering major who is hoping to move out west to snowboard and work after graduating. Outside of snowboarding he enjoys ultimate frisbee, drag racing, and music. You might see him on Palmer hill after a snow storm setting up rails and jumps because he has an addiction to snowboarding." >}}
 
-    {{< person src="eden" person_name="Eden Boes" person_title="Treasurer" person_bio="Eden is a senior studying architecture. In her free time she enjoys reading fantasy books and drawing. Her favorite emojis include 🤠🕺😵‍💫🫡🫣" >}}
+    {{< person src="eden" person_name="Eden Boes" person_title="Treasurer" person_bio="Eden is in her senior year studying architecture. Along with skiing, she loves reading, clouds, and this emoji 🕺. Her favorite part of MSC are the cool trips that the club goes on." >}}
 
 
 {{< /people >}}
@@ -31,7 +31,7 @@ Officers help run the snowboard club here at Michigan. We often wear jerseys to 
 
 {{< person src="kevin" person_name="Kevin Ellis" person_title="Social Chair" person_bio="Kevin is a junior studying graphic design at Stamps. Off of the slopes, he enjoys taking 0.5x photos, hot yoga,  ripsticking, and being runner-up in the euchre tournament. It's in your best interest to keep him away from the beautiful city of Toronto." >}}
 
-{{< person src="logo" person_name="Mara Serbanescu" person_title="Social Chair" person_bio="Mara Serbanescu is a social chair for the Michigan Snowboard Club." >}}
+{{< person src="logo" person_name="Mara Serbanescu" person_title="Social Chair" person_bio="Mara is a senior studying Political Science but definitely not pursuing a career in politics (anymore, at least). She's spent 10 years shredding the Alps and 3 years now missing them. Last year's SB in Jackson Hole, WY was the closest she felt to her European skiing roots in years. In MI you'll most likely find her combat skiing up at Mt. Bohemia (Boho, affectionately) in the UP. Green flag: will DD when needed and will record anything and everything happening to enjoy looking back on later. Red flag: wears Crocs 99% of the time and has a dairy addiction." >}}
 
 {{< person src="chip" person_name="Chip Cronin" person_title="MLK Coordinator" person_bio="Chip is a fourth-year biomedical engineering major with a focus on biomechanics. Growing up in coastal Massachusetts, his capabilities on western mountains is questionable, but he does know how to sail and shuck oysters. He loves the New England Patriots, hopefully they don't suck this year." >}}
 
@@ -39,7 +39,7 @@ Officers help run the snowboard club here at Michigan. We often wear jerseys to 
 
 {{< person src="grace" person_name="Grace Dempsey" person_title="Design Chair" person_bio="Grace is a senior studying architecture who enjoys shredding more than school (and has broken two bones and a ligament in the process).  She learned to ski on a reclaimed garbage dump and has been known to draw the designs for MSC merch with crayons." >}}
 
-{{< person src="logo" person_name="Adam Rajner" person_title="Content Creator" person_bio="Adam Rajner the content creator for the Michigan Snowboard Club." >}}
+{{< person src="logo" person_name="Adam Rajner" person_title="Content Creator" person_bio="Adam Rajner is a senior studying Mechanical Engineering. Outside of schoolwork he enjoys Snowboarding (surprise), skateboarding, music, and videography. He may be dedicated to his career, but he doesn’t let that get in the way of a little pow and partying. You may spot him taking a video for the next MSC edit or skating on the diag with friends." >}}
 
 {{< person src="michael" person_name="Michael Albano" person_title="Content Creator" person_bio="Michael is a senior studying business. When he isn't filling coloring books, he likes to play hockey and tennis, produce music, dj, and make silly videos. He unfortunately loves Playboi Carti and considers himself Carti's third biggest fan. He is deeply immersed in Heidelburg lore and aspires to one day be a wizard." >}}
 
