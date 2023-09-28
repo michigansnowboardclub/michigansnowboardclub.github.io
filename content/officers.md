@@ -27,7 +27,7 @@ Officers help run the snowboard club here at Michigan. We often wear jerseys to 
 
 {{< person src="dana" person_name="Dana Marion" person_title="Head Social Chair" person_bio="Dana is a senior majoring in International Studies and Anthropology with a minor in Education for Empowerment. She is super passionate about skiing and grew up skiing in Keystone, CO." >}}
 
-{{< person src="logo" person_name="Nick Hogan" person_title="Social Chair" person_bio="Nick Hogan is a social chair for the Michigan Snowboard Club." >}}
+{{< person src="nick" person_name="Nick Hogan" person_title="Social Chair" person_bio="Nick is a senior studying sport management. When he's not super busy doing the hours of homework he has every day, he enjoys gamer fighting with his roommate Sidney, music, skiing, and updating the Official Beer Ball Rulebook." >}}
 
 {{< person src="kevin" person_name="Kevin Ellis" person_title="Social Chair" person_bio="Kevin is a junior studying graphic design at Stamps. Off of the slopes, he enjoys taking 0.5x photos, hot yoga,  ripsticking, and being runner-up in the euchre tournament. It's in your best interest to keep him away from the beautiful city of Toronto." >}}
 
@@ -50,7 +50,7 @@ Officers help run the snowboard club here at Michigan. We often wear jerseys to 
 {{< person src="logo" person_name="Justin Li" person_title="Local Trips" person_bio="Justin Li is a local trips coordinator for the Michigan Snowboard Club." >}}
 
 
-{{< person src="logo" person_name="Jake Lang" person_title="Fundraising" person_bio="Jake Lang is a fundraising chair for the Michigan Snowboard Club" >}}
+{{< person src="jake" person_name="Jake Lang" person_title="Fundraising" person_bio="Jake Lang is a senior studying computer science and cognitive science. Grew up in Minnesota/da Yoop/Oregon coast. Snowboards, climbs rocks, and plays video games. Frequently found wearing the “hat hat.” Enjoys Riesling. Yoshi main. " >}}
 
 {{< person src="ashley" person_name="Ashley Nguyen" person_title="Fundraising" person_bio="Ashley is a third year psychology major, minoring in linguistics from Northern Michigan where she grew up shredding at Boyne. When she’s not snowboarding, she enjoys volleyball, hacky sack, rock climbing, thrifting and spending time with the homies<3. Her favorite music artists at the moment are Vulfpeck, Remi Wolf, and Sun Room." >}}
 

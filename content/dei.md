@@ -36,3 +36,7 @@ title: 'Diversity, Equity, and Inclusion'
         - disrespecting boundaries or rules set by a member, officer, or event host
         - disrespecting one’s property
         - disrespecting one’s identity or background
+
+[Anonymous Report Form](https://forms.gle/ZS24iQNvroF98vyJ8)
+
+[Anonymous Feedback Form](https://forms.gle/ps8pGEDBKsYZkz598)
