@@ -81,10 +81,16 @@ enableRobotsTXT = true
     weight = 5
 
   [[menu.main]]
+    identifier = "dei"
+    name = "DEI"
+    url = "/dei/"
+    weight = 6
+
+  [[menu.main]]
     identifier = "contact"
     name = "Contact"
     url = "/contact/"
-    weight = 6
+    weight = 7
 
   # Footer Menu
   [[menu.footer]]
