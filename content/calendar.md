@@ -2,9 +2,7 @@
 title: 'Calendar'
 ---
 
-The details of some events are hidden in the *busy* event at the same time. 
-
-To view, open the calendar and sign in. You must be a club member - you can join [here](https://forms.gle/aqts7eGztAJ9mZTd8).
+The details of some events are hidden. If you are a member, check your email for further details such as location.
 
 
 {{< calendar >}}
