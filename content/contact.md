@@ -5,6 +5,6 @@ title: 'Contact'
 
 [Anonymous Feedback Form](https://forms.gle/ps8pGEDBKsYZkz598)
 
-To contact us not anonymously, please fill out the form below.
+To contact us **NOT** anonymously, please fill out the form below.
 
 {{< form >}}
