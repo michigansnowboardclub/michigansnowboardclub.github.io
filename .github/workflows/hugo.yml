@@ -40,7 +40,7 @@ jobs:
       - name: Install Dart Sass Embedded
         run: sudo snap install dart-sass-embedded
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           submodules: recursive
       - name: Setup Pages
@@ -66,10 +66,10 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      # url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     needs: build
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v1
+        uses: actions/deploy-pages@v3
