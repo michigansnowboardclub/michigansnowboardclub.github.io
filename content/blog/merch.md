@@ -17,7 +17,7 @@ aliases = ["migrate-from-jekyl"]
 ## 2025 Merch Drop is Now Open!
 
 
-## MERCH DROP CLOSES 04/30/2025 AT MIDNIGHT!
+## MERCH DROP CLOSES 05/01/2025 AT MIDNIGHT!
 
 
 ## [--->Click for Merch Store <---](https://docs.google.com/forms/d/e/1FAIpQLSeExqqi4nRPUk5erU47yrf1X8xThijUE37OxxLtR64xPg6XgQ/viewform?usp=header) 
