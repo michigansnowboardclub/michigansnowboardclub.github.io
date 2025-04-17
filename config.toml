@@ -68,11 +68,11 @@ enableRobotsTXT = true
     url = "/calendar/"
     weight = 3
 
-#  [[menu.main]]
-#    identifier = "merch"
-#    name = "Merch"
-#    url = "/merch/"
-#    weight = 4
+  [[menu.main]]
+    identifier = "merch"
+    name = "Merch"
+    url = "/merch/"
+    weight = 4
 
   [[menu.main]]
     identifier = "blog"
