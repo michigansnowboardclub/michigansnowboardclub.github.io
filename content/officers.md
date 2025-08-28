@@ -17,8 +17,7 @@ Officers help run the snowboard club here at Michigan. We often wear jerseys to 
 
 ## Officers
 {{< people >}}
-    {{< person src="Connor" person_name="Conor Sullivan" person_title="MLK Coordinator" person_bio="" >}}
-    {{< person src="alexis" person_name="Alexis Mountford" person_title="Social Chair" person_bio="Alexis is a senior studying Biopsychology, Cognition, and Neuroscience and plans to go on to grad school to be an Occupational Therapist. In her free time she enjoys reading, community service, and shredding some serious gnar." >}}
+    {{< person src="Conor" person_name="Conor Sullivan" person_title="MLK Coordinator" person_bio="" >}}
     {{< person src="Paul" person_name="Paul Vigneau" person_title="Social Chair" person_bio="I am a junior majoring in MCDB and I am pre-med. When I am not skiing I enjoy all things music, video games, and spending time with friends. I have a cottage in Port Sanilac that I spend as much time as I can at. Here's to a great year and happy shredding." >}}
     {{< person src="Luke" person_name="Luke Hogan" person_title="Social Chair" person_bio="Luke is a junior at Ross, where he spends his mornings increasing shareholder value and his afternoons playing with Play-Doh. Luke aspires to be just another cog in the machine when he graduates, but for now, he enjoys music, college football, and telling his friends that 'this is our semester, guys, seriously.' Luke hopes you enjoy MSC socials this year and will probably ask you if you are having a good time." >}}
     {{< person src="Alan" person_name="Alan Marshall" person_title="Social Chair" person_bio="" >}}
