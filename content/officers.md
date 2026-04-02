@@ -30,6 +30,7 @@ Officers help run the snowboard club at Michigan. They often wear jerseys to eve
     {{< person src="Liam" person_name="Liam Oliva" person_title="Design" person_bio="Tree-crasher, amateur baker, curmudgeon, and friend." >}}
     {{< person src="Quinn" person_name="Quinn Brophy" person_title="Local Trips" person_bio="Quinn is a senior from Saline, MI studying communications and media. He loves riding and aims for at least 30 days on the hill each season. He also enjoys spending time with friends around Ann Arbor and being outdoors in general." >}}
     {{< person src="Talia" person_name="Talia Kornzweig" person_title="People and Culture Chair" person_bio="Talia is a third-year club member and first-time officer. She learned to ski with MSC and is excited to contribute to inclusion and accessibility in the club." >}}
+    {{< person src="Ted" person_name="Ted Spetnagel" person_title="Sustainability Chair" person_bio="Sophomore from St. Louis studying Chemical Engineering. Free time consists of bumping Drake and catching edges." >}}
     {{< person src="Blake" person_name="Blake Banninger" person_title="Public Relations" person_bio="Blake is the PR chair for the year. He is a junior from Waterford, MI studying business. Growing up near Boyne Mountain gave him a lifelong love for skiing. After serving as fundraising chair last year, he is excited to take on this new role. In his free time, he enjoys being overly competitive at Mario Kart, jokingly humble, lollygagging, scheming, and being mediocre at pool." >}}
     {{< person src="Ethan" person_name="Ethan Scott" person_title="Web Design" person_bio="Ethan is a junior studying aerospace engineering from St. Louis. He is passionate about space and is always eager to share knowledge on the subject. He is a Michigan sports fan, a skier, a budding golfer, and a sailor during the summer." >}}
 {{< /people >}}
@@ -38,5 +39,5 @@ Officers help run the snowboard club at Michigan. They often wear jerseys to eve
 ## Junior Officers
 {{< people >}}
     {{< person src="Ava" person_name="Ava McKaig" person_bio="Ava is a freshman studying biology from Hartland, MI. A rookie snowboarder, she enjoys playing basketball, hiking, playing guitar/piano (poorly), and any type of beverage (shoutout lime lacroix)." >}}
-    {{< person src="Kain" person_name="Kian Flynn" person_bio="Future MSC president" >}}
+    {{< person src="Kian" person_name="Kian Flynn" person_bio="Future MSC president" >}}
 {{< /people >}}
