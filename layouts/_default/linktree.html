@@ -1,0 +1,158 @@
+{{ define "main" }}
+<style>
+  :root{
+    --midnight:#0A1420;
+    --panel:#142334;
+    --panel-2:#1B2E42;
+    --snow:#F2F6F8;
+    --snow-dim:#B9C7D3;
+    --ice:#6FB8D9;
+    --lime:#C6FF4D;
+  }
+  .msc-linktree-page {
+    width: 100%;
+    max-width: 440px;
+    margin: 0 auto;
+    padding: 48px 20px 64px;
+    color: var(--snow);
+    background: var(--midnight);
+    min-height: 100vh;
+    font-family: 'Inter', sans-serif;
+  }
+  .msc-linktree-page .hero {
+    position: relative;
+    height: 170px;
+    margin-bottom: 22px;
+  }
+  .msc-linktree-page .hero svg {
+    width: 100%;
+    height: 100%;
+    display: block;
+  }
+  .msc-linktree-page .name {
+    font-family: 'Anton', sans-serif;
+    font-weight: 400;
+    font-size: clamp(2.1rem, 9vw, 2.9rem);
+    line-height: 0.95;
+    text-align: center;
+    margin: 0 0 8px;
+    color: var(--snow);
+  }
+  .msc-linktree-page .name span {
+    color: var(--lime);
+  }
+  .msc-linktree-page .tagline {
+    text-align: center;
+    color: var(--snow-dim);
+    font-size: 0.95rem;
+    margin: 0 0 40px;
+    font-weight: 500;
+  }
+  .msc-linktree-page .links {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+  }
+  .msc-linktree-page .link {
+    position: relative;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    padding: 18px 22px;
+    background: var(--panel);
+    border-left: 3px solid var(--ice);
+    clip-path: polygon(0 0, calc(100% - 22px) 0, 100% 100%, 0 100%);
+    text-decoration: none;
+    color: var(--snow);
+    transition: transform 0.18s ease, border-color 0.18s ease, background 0.18s ease;
+  }
+  .msc-linktree-page .link:hover,
+  .msc-linktree-page .link:focus-visible {
+    transform: translateX(6px);
+    border-left-color: var(--lime);
+    background: var(--panel-2);
+    outline: none;
+  }
+  .msc-linktree-page .link:focus-visible {
+    outline: 2px solid var(--lime);
+    outline-offset: 3px;
+  }
+  .msc-linktree-page .icon {
+    flex-shrink: 0;
+    width: 22px;
+    height: 22px;
+    color: var(--ice);
+    transition: color 0.18s ease;
+  }
+  .msc-linktree-page .link:hover .icon,
+  .msc-linktree-page .link:focus-visible .icon {
+    color: var(--lime);
+  }
+  .msc-linktree-page .link-label {
+    font-weight: 600;
+    font-size: 1.05rem;
+    display: block;
+  }
+  .msc-linktree-page .link-sub {
+    display: block;
+    font-size: 0.82rem;
+    color: var(--snow-dim);
+    font-weight: 400;
+    margin-top: 2px;
+  }
+  .msc-linktree-page footer {
+    text-align: center;
+    color: var(--snow-dim);
+    font-size: 0.75rem;
+    margin-top: 44px;
+    opacity: 0.6;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .msc-linktree-page .link {
+      transition: none;
+    }
+  }
+</style>
+
+<div class="msc-linktree-page">
+  <div class="hero">
+    <svg viewBox="0 0 440 170" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+      <circle cx="358" cy="42" r="28" fill="#1B2E42"/>
+      <polygon points="0,170 70,64 140,132 200,46 270,132 330,74 440,170" fill="#122135"/>
+      <polygon points="0,170 90,104 170,142 240,86 320,142 380,114 440,170" fill="#0D1A29"/>
+      <line x1="0" y1="168" x2="440" y2="168" stroke="#C6FF4D" stroke-width="1.5" stroke-dasharray="6 10" opacity="0.5"/>
+    </svg>
+  </div>
+
+  <h1 class="name">MICHIGAN<br><span>SNOWBOARD</span> CLUB</h1>
+  <p class="tagline">Ann Arbor's home for shredders</p>
+
+  <nav class="links">
+    <a class="link" href="https://michigansnowboard.club/" target="_blank" rel="noopener">
+      <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 18l6-10 4 6 3-4 5 8H3z"/></svg>
+      <span>
+        <span class="link-label">Club Website</span>
+        <span class="link-sub">michigansnowboard.club</span>
+      </span>
+    </a>
+
+    <a class="link" href="https://docs.google.com/forms/d/e/1FAIpQLScofHSpfOKm6N3OgZAXpb_T2Cvo-pyH4waM7MaRJhM_plJf7g/viewform?usp=header" target="_blank" rel="noopener">
+      <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="16" rx="1.5"/><path d="M7 12l3 3 7-7"/></svg>
+      <span>
+        <span class="link-label">Sign Up Form</span>
+        <span class="link-sub">Join the club</span>
+      </span>
+    </a>
+
+    <a class="link" href="https://www.youtube.com/@umichshredders" target="_blank" rel="noopener">
+      <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="14" rx="3"/><path d="M10 9l6 3-6 3z" fill="currentColor" stroke="none"/></svg>
+      <span>
+        <span class="link-label">YouTube</span>
+        <span class="link-sub">@umichshredders</span>
+      </span>
+    </a>
+  </nav>
+
+  <footer>University of Michigan &middot; Snowboard Club</footer>
+</div>
+{{ end }}
