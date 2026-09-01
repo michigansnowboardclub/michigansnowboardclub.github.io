@@ -87,10 +87,16 @@ enableRobotsTXT = true
     weight = 6
 
   [[menu.main]]
+    identifier = "links"
+    name = "Links"
+    url = "/links/"
+    weight = 7
+
+  [[menu.main]]
     identifier = "contact"
     name = "Contact"
     url = "/contact/"
-    weight = 7
+    weight = 8
 
   # Footer Menu
   [[menu.footer]]
