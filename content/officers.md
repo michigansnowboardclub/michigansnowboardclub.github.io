@@ -25,10 +25,10 @@ Officers help run the snowboard club at Michigan. They often wear jerseys to eve
     {{< person src="Luke1" person_name="Luke Hogan" person_title="Social Chair" person_bio="Luke is a senior who maximizes shareholder value in all aspects of his professional and personal life. At MSC, you are his principle shareholder. He works with incredible socials to help you be social. Win-win. In his free time, Luke yearns for crowded NYC subways, listens to music, doomscrolls the news, and runs a small arts-and-culture podcast with his imaginary friend, Reno. " >}}
     {{< person src="Suzanne" person_name="Suzanne Lochocki" person_title="Local trips " person_bio="Suzanne is a senior from Ann Arbor studying microbiology with plans to pursue a career in cardiac perfusion. When not suffering at the hands of the biology or chemistry departments, she enjoys skiing, reading, trying new coffee shops, and spending all of her money on traveling. " >}}
     {{< person src="Benji" person_name="Benji Clark" person_title="Content" person_bio="Running, Climbing, somehow injuring myself, playing fortnite. " >}}
-    {{< person src="Ted" person_name="Ted Spetnagel" person_title="Local Trips Chair" person_bio="Ted is a junior from St. Louis studying chemical engineering. He has big dreams of landing his first tamedog this year after failing to master the revered 180 last season. When he isn’t snowboarding, he dabbles in running and performative guitar playing. His favorite utensil is the spork." >}}
+    {{< person src="Ted1" person_name="Ted Spetnagel" person_title="Local Trips Chair" person_bio="Ted is a junior from St. Louis studying chemical engineering. He has big dreams of landing his first tamedog this year after failing to master the revered 180 last season. When he isn’t snowboarding, he dabbles in running and performative guitar playing. His favorite utensil is the spork." >}}
 {{< /people >}}
 
 ## Advisors
 {{< people >}}
-    {{< person src="Sawyer" person_name="Sawyer Smith" person_bio="Sawyer is the 2026-2027 Advisor. He has been snowboarding for about ten years, and his favorite trick is falling down. When not searching for buried treasure, he enjoys Brazilian Jiu Jitsu and playing video games." >}}
+    {{< person src="Sawyer1" person_name="Sawyer Smith" person_bio="Sawyer is the 2026-2027 Advisor. He has been snowboarding for about ten years, and his favorite trick is falling down. When not searching for buried treasure, he enjoys Brazilian Jiu Jitsu and playing video games." >}}
 {{< /people >}}
